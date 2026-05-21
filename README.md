@@ -19,8 +19,6 @@ edits matching requests.
 ### Linux
 
 ```sh
-pipx install mitmproxy
-# or
 sudo apt install mitmproxy
 ```
 
